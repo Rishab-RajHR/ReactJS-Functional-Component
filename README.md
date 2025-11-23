@@ -13,3 +13,18 @@ Accepts props as input
 Returns JSX (UI)
 
 Uses hooks for state and lifecycle
+
+
+
+🎯 Why Use Functional Components?
+
+✔️ Easy to read & write
+
+✔️ Better performance
+
+✔️ Supports Hooks (useState, useEffect, etc.)
+
+✔️ Cleaner and more concise than class components
+
+✔️ Recommended by React team for modern apps
+
