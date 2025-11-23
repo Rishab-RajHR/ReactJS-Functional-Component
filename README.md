@@ -28,3 +28,17 @@ Uses hooks for state and lifecycle
 
 ✔️ Recommended by React team for modern apps
 
+
+
+
+⚡ Best Practices
+
+✔️ Use meaningful component names
+
+✔️ Keep components small & focused
+
+✔️ Extract repeated code into reusable components
+
+✔️ Use hooks for state & lifecycle
+
+✔️ Keep logic separated from UI when possible
